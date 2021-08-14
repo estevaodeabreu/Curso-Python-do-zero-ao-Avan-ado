@@ -1,11 +1,15 @@
 ### Traduzindo os termos usados em codigo a medida em que apareceam.
 
+Termo ----- Tradução -----------Possivel Uso
 
-print = impressão
-input = entrada
-if =  se
-elif = mas se
-else = senão
-try = experimentar
-except = exceto
-pass = passar
+print =     impressão           (imprimir comandos na tela )
+input =      entrada            (solicitar dado ao usuário)
+if =           se               (condição)
+elif =       mas se             (condição)
+else =        senão             (condição)
+try =     experimentar          ("tente rodar o código")
+except =     exceto             (excessão)
+pass =       passar             (passe para a proxima linha de código)
+lower =     diminuir            (letras minusculas)
+upper =     superior            (letras maiusculas)
+title =      título             (primeira letra maiuscula)
