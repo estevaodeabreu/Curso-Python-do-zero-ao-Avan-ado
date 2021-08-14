@@ -10,9 +10,12 @@
 #####  <= Menor ou igual
 ##Operadores lógicos:
 
-###### and  operador "e" lógico (isso E aquilo)
-###### or   operador "ou" lógico (isso OU aquilo)
-###### not  operador que "inverte a condição" (not True= False)
+###### and  operador "e"     lógico (isso E aquilo)
+###### or   operador "ou"    lógico (isso OU aquilo)
+###### not  operador que "   inverte a condição" (not True= False)
+###### in   operador "em"    logico (existe "EM", adicione "EM", indica local )
+###### not in  operador "não em"    logico (não está "EM", indica local)
+
 
 
 ###### condição1 and condição2 para ser verdadeiro as 2 precisam ser verdadeiras
