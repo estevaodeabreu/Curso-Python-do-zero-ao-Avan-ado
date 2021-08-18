@@ -15,3 +15,8 @@ upper =     superior            (letras maiusculas)
 title =      título             (primeira letra maiuscula)
 range =      alcance            (comprimento)
 built-in     construídas em     ("nativa na linguagem")
+split        dividir             (.split(' ') usado para dividir itens em lista)
+join         junte               ( juntar coisas)
+count        contar              ( .count para contar coisas)
+enumerete    enumerar            ('colocar um numero antes')
+
