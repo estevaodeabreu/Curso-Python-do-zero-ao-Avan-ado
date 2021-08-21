@@ -19,4 +19,5 @@ split        dividir             (.split(' ') usado para dividir itens em lista)
 join         junte               ( juntar coisas)
 count        contar              ( .count para contar coisas)
 enumerete    enumerar            ('colocar um numero antes')
+none         nenhum              (indica que uma variavel, fução etc, não possui valor atribuido)
 
